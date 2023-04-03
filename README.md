@@ -1,5 +1,5 @@
 # privacypoolsapi
-This repo contains proposed API endpoints used by entities in the privacypools ecosystem. 
+This repo contains [proposed API endpoints](https://nickbax.github.io/privacypoolsapi/ "proposed API endpoints") used by entities in the privacypools ecosystem. 
 
 There are 4 entities in the ecosystem: 
 - **Users**: seek to maximize their anonymity set and minimize hassle due to tainted anonymity sets.
